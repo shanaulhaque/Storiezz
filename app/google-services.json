@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141615468797",
+    "firebase_url": "https://storiezz-62867.firebaseio.com",
+    "project_id": "storiezz-62867",
+    "storage_bucket": "storiezz-62867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141615468797:android:5e7e913633eaee18",
+        "android_client_info": {
+          "package_name": "com.sh.storiezz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141615468797-7fo372fhl0mj9858jajoe4sismd72pcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sh.storiezz",
+            "certificate_hash": "052bfe9d9691b43b9201ecb4cc27cefbbe823bc8"
+          }
+        },
+        {
+          "client_id": "141615468797-fi9el6541uqnqo2cnkru0n0umuegeh6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjY3D8FaKHosgbUIGWVYieady_SUdU82s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141615468797-fi9el6541uqnqo2cnkru0n0umuegeh6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
